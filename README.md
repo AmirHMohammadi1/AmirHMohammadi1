@@ -7,7 +7,7 @@
 **✨ ساختن ایده‌ها با کد ✨ | ✨ Building Ideas with Code ✨**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00CC99?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/AmirHMohammadi1)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-hosein-mohammadi-b762b1237/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AmirHMohammadi/)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.h.mohammadi5@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mr_amir_developer)
 
@@ -137,7 +137,7 @@
 
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle) -->
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00CC99?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/AmirHMohammadi1)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-hosein-mohammadi-b762b1237/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AmirHMohammadi/)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.h.mohammadi5@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mr_amir_developer)
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile) -->
