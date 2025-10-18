@@ -6,7 +6,7 @@
 ### 💫 Full Stack Developer | توسعه دهنده فول استک
 **✨ ساختن ایده‌ها با کد ✨ | ✨ Building Ideas with Code ✨**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00CC99?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/AmirHMohammadi1)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00CC99?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amirhmohammadi1.github.io/my-resume/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AmirHMohammadi/)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.h.mohammadi5@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mr_amir_developer)
@@ -117,8 +117,8 @@
 <div align="center">
 
 <!-- کارت‌های پروژه -->
-<a href="https://github.com/AmirHMohammadi1">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirHMohammadi1&repo=AmirHMohammadi1&theme=radical&hide_border=true" />
+<a href="https://amirhmohammadi1.github.io/my-resume/">
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirHMohammadi1&repo=my-resume&theme=radical&hide_border=true" />
 </a>
 <a href="https://github.com/AmirHMohammadi1">
   <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirHMohammadi1&repo=AmirHMohammadi1&theme=radical&hide_border=true" />
@@ -136,7 +136,7 @@
 <div align="center">
 
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle) -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00CC99?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/AmirHMohammadi1)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00CC99?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amirhmohammadi1.github.io/my-resume/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AmirHMohammadi/)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.h.mohammadi5@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mr_amir_developer)
