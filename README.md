@@ -124,7 +124,7 @@
   <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirHMohammadi1&repo=Express-LMS&theme=radical&hide_border=true" />
 </a>
 <a href="https://github.com/AmirHMohammadi1">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirHMohammadi1&repo=AmirHMohammadi1&theme=radical&hide_border=true" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirHMohammadi1&repo=NEXTUI&theme=radical&hide_border=true" />
 </a>
 
 </div>
