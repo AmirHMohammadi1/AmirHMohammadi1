@@ -118,7 +118,7 @@
 
 <!-- کارت‌های پروژه -->
 <a href="https://amirhmohammadi1.github.io/my-resume/">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirHMohammadi1&repo=my-resume&theme=radical&hide_border=true" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirHMohammadi1&repo=mini-fullstack-todo-graphQl&theme=radical&hide_border=true" />
 </a>
 <a href="https://github.com/AmirHMohammadi1">
   <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirHMohammadi1&repo=Express-LMS&theme=radical&hide_border=true" />
